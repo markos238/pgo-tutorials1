@@ -1,0 +1,7 @@
+1. Klasy : Person,Adress,professor,student
+2. Atrybuty i ich typy danych: Person : Name :string; Surname: string ; Age: int; 
+Address: Street: string; City string; State string; Postal Code int; Country string;
+Student: Student Number int; Average Mark int;
+Professor: Salary int;
+3.Metody i ich typy danych : Person: IntroduceYourself()string; Address: Validate ; OutputAsLabel;
+Student: IsEligibleToEnroll boolean; GetSeminarsTaken boolean;
